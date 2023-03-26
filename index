@@ -1,0 +1,38 @@
+<html>
+<head>
+  <title>Plant Health Analysis</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #F0F8FF;
+    }
+    h1 {
+      color: #228B22;
+      text-align: center;
+    }
+    p {
+      margin: 20px;
+    }
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+    a {
+      color: #228B22;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Plant Health Analysis</h1>
+  <p>Welcome to Plant Health Analysis, a website that helps you diagnose and treat your plants' problems. Whether you have a garden, a farm, or a houseplant, we can help you keep your plants healthy and happy.</p>
+  <img src="plant.jpg" alt="A healthy plant">
+  <p>To get started, click on the button below to upload a picture of your plant and answer some questions. We will analyze your plant and give you a report with the possible causes and solutions for your plant's issues.</p>
+  <p><a href="analysis.html"><button>Analyze my plant</button></a></p>
+</body>
+</html>
